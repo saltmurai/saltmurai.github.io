@@ -6,7 +6,7 @@ description: Flyg0n Blog
 keywords: Flyg0n,Blog,C++,Cyber Security,Linux
 author: Flyg0n
 language: en
-footerText: 'Flyg0n - The personal blog of Sang P.Q - Build with Jekyll'
+footerText: 'guess whah'
 
 permalink: /posts/:year/:month/:day/:title.html
 kramdown:
@@ -25,22 +25,10 @@ menu:
     url: /pages/categories.html
   - title: search
     url: /pages/search.html
-    # title: 
-    # url: /pages/links.html
-  # - title: 留言
-  #  url: /pages/chat.html
   - title: about
     url: /pages/about.html
 
 extClickEffect: true
-
-extAdsense: false
-
-extMTA: true
-
-extBaidu: false
-
-extMath: false
 
 
     
